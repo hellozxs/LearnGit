@@ -5,3 +5,6 @@ This is second readme.txt
 
 2016-7-30
 今天是个好日子
+
+2016-8-3
+今天状态不错
