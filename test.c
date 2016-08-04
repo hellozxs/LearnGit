@@ -10,6 +10,7 @@
 int main()
 {
 	printf("hello Git !\n");
+    printf("hello dev !\n");
 	return 0;
 }
 
