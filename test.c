@@ -9,7 +9,7 @@
 
 int main()
 {
-	printf("hello Git !\n");
+	printf("Hello Git !\n");
 	return 0;
 }
 
